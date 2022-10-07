@@ -1,2 +1,2 @@
 #!/bin/bash
-cp LC_ALL=C ls [A-Z]* /tmp/u
+mv [[:upper:]]* /tmp/u
